@@ -1,0 +1,44 @@
+body {
+  background-image: url("../images/coolest.jpg");
+  background-repeat: repeat;
+  color: #79797B;
+  text-align: center;
+}
+#title {
+	font-size: 50px;
+	color: 	#D8E4DA;
+
+}
+#rules-area {
+  font-size:15px;
+  color: white;
+  font-style: bold;
+  background-color: #742EA4;
+  text-align: center;
+  opacity: 0.5;
+}
+
+
+.crystal-img {
+  width: 80px;
+  height: 80px;
+  cursor: alias;
+  background-color: white;
+  display: inline-table;
+}
+
+#score-area {
+  color: ghostwhite;
+  background-color: #79797B;
+  text-align: center;
+}
+#score-title { 
+  
+  color: white;
+  background-color: #182AD3;
+  text-align: center;
+}
+#score-number {
+  font-size: 3vw;
+  background-color: #E88081;
+}
